@@ -29,6 +29,7 @@ The Dataset has 4 columns:
 # 4.Approaches:
 1. Popularity based recommendation Model:
 2. Collaborative Filtering Recommendation Model
+
 2.1 KNN
 2.2 Matrix Factorization - Singular Value decomposition
 
