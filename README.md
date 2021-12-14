@@ -31,9 +31,9 @@ The Dataset has 4 columns:
 
 2. Collaborative Filtering Recommendation Model
 
-2.1 KNN
+  2.1 KNN
 
-2.2 Matrix Factorization - Singular Value decomposition
+  2.2 Matrix Factorization - Singular Value decomposition
 
 download (5)
 
