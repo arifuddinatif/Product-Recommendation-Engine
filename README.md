@@ -18,14 +18,14 @@ The Dataset has 4 columns:
 • Timestamp: digital record of the time of occurrence of a particular event.
 
 # 3. Methodology :
-Installing libraries and getting Data
-Check for null values and outliers
-Exploratory Data Analysis
-Model Preparation
-Different Model approach and selection of best Model
-Hyper parameter tuning of model
-Final Evaluation.
-Working
+1. Installing libraries and getting Data
+2. Check for null values and outliers
+3. Exploratory Data Analysis
+4. Model Preparation
+5. Different Model approach and selection of best Model
+6. Hyper parameter tuning of model
+7. Final Evaluation.
+
 # 4.Approaches:
 1. Popularity based recommendation Model:
 
