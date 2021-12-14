@@ -1,11 +1,10 @@
 # Product-Recommendation-Engine
-product-recommendations-hero
-We present a product recommender model that is based on collaborative filter- ing. In this model, we have a 2 million customer review and ratings of beauty related products sold on amazon. The results showed that our model can provide appropriate recommendations to users.
+We present a product recommender model that is based on collaborative filtering. In this model, we have a 2 million customer review and ratings of beauty related products sold on amazon. The results showed that our model can provide appropriate recommendations to users.
 
-1. Introduction:
-Recommender model as one of the MOST demanding algorithms in recent times mainly in product based companies. With growing customers and use of digital media, recommender system helps to boost an app’s/websites engagement with its users. In this project, we developed a recommender model by using dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on Amazon’s website.
+# 1. Introduction:
+Recommender model is one of the MOST demanding algorithms in recent times mainly in product based companies. With growing customers and use of digital media, recommender system helps to boost an app’s/websites engagement with its users. In this project, we developed a recommender model by using dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on Amazon’s website.
 
-2. Problem Statement :
+# 2. Problem Statement :
 We have dataset related to over 2 Million customer reviews and ratings of Beauty related products sold on Amazon’s website, and we are to develop a product recom- mender model using different approaches.
 
 The Dataset has 4 columns:
@@ -18,7 +17,7 @@ The Dataset has 4 columns:
 
 • Timestamp: digital record of the time of occurrence of a particular event.
 
-3. Methodology :
+# 3. Methodology :
 Installing libraries and getting Data
 Check for null values and outliers
 Exploratory Data Analysis
@@ -27,7 +26,7 @@ Different Model approach and selection of best Model
 Hyper parameter tuning of model
 Final Evaluation.
 Working
-4.Approaches:
+# 4.Approaches:
 1. Popularity based recommendation Model:
 
 2. Collaborative Filtering Recommendation Model
@@ -38,5 +37,5 @@ Working
 
 download (5)
 
-5. Result:
+# 5. Result:
 While selection of model Popularity Model gave an RMSE of 1.3 whereas KNNwithMeans model gave 1.05 which was better than popularity based. Further using SVD we got RMSE as 1.01 which was the lowest and on further hyper parameter tuning we got RMSE as 0.87.
