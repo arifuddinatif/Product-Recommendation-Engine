@@ -31,11 +31,10 @@ The Dataset has 4 columns:
 
 2. Collaborative Filtering Recommendation Model
 
-  2.1 KNN
+2.1 KNN
 
-  2.2 Matrix Factorization - Singular Value decomposition
+2.2 Matrix Factorization - Singular Value decomposition
 
-download (5)
 
 # 5. Result:
 While selection of model Popularity Model gave an RMSE of 1.3 whereas KNNwithMeans model gave 1.05 which was better than popularity based. Further using SVD we got RMSE as 1.01 which was the lowest and on further hyper parameter tuning we got RMSE as 0.87.
