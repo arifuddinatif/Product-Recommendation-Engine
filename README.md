@@ -27,11 +27,9 @@ The Dataset has 4 columns:
 7. Final Evaluation.
 
 # 4.Approaches:
-1. Popularity based recommendation Model:
-2. Collaborative Filtering Recommendation Model
+1. Popularity based recommendation Mode.
+2. Collaborative Filtering Recommendation Model with KNN nad matrix factorization-Singular value decomposition
 
-2.1 KNN
-2.2 Matrix Factorization - Singular Value decomposition
 
 
 # 5. Result:
